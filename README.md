@@ -22,6 +22,3 @@ This project simulates **Contiguous Memory Allocation** techniques used in Opera
 * **Language:** Java.
 * **Concepts:** Operating Systems, Memory Management, Fragmentation.
 * **Data Structures:** ArrayList (for dynamic block management).
-
----
-*Developed for CSC227: Operating Systems course at King Saud University.*
